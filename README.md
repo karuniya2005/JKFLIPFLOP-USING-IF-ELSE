@@ -1,5 +1,5 @@
 # EX NO:7
-<P align='center'> <b>SJKFLIPFLOP-USING-IF-ELSE</b>
+<P align='center'> <b>JKFLIPFLOP-USING-IF-ELSE</b>
 
 **DATE:**
 
